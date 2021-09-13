@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+
+  .title {
+    position: absolute;
+    left: 45%;
+    color: white;
+  }
+
+  .image {
+    width: 250px;
+    height: 250px;
+    vertical-align: middle;
+  }
+}
