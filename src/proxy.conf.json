@@ -1,6 +1,6 @@
 {
   "/api/*": {
-    "target": "https://apolloevoapi.azurewebsites.net/",
+    "target": "https://apolloevoapi.azurewebsites.net/api",
     "secure": false,
     "pathRewrite": {
       "^/api": ""
